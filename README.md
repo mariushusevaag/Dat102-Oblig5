@@ -6,3 +6,6 @@
 
 ## Levert av:
 - Marius Husevåg | 578052
+-	Glenn Barosen | 579705
+-	Charlie Coulter |  571728
+-	Peder Drønnen | 579701
